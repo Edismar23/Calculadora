@@ -2,10 +2,10 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-01-31T14:01:17Z" name="CalculadoraWin.Calculadora.AppTest" finished-at="2019-01-31T14:01:17Z" duration-ms="3">
+  <suite started-at="2019-02-13T15:38:38Z" name="CalculadoraWin.Calculadora.AppTest" finished-at="2019-02-13T15:38:38Z" duration-ms="15">
     <groups>
     </groups>
-    <test started-at="2019-01-31T14:01:17Z" name="Command line test" finished-at="2019-01-31T14:01:17Z" duration-ms="3">
+    <test started-at="2019-02-13T15:38:38Z" name="Command line test" finished-at="2019-02-13T15:38:38Z" duration-ms="15">
     </test> <!-- Command line test -->
   </suite> <!-- CalculadoraWin.Calculadora.AppTest -->
 </testng-results>

@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="C:\Users\ext_edvargas\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf9263573686048917976.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\ext_edvargas\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6763468857037952999.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-11.0.2/bin/server;C:/Program Files/Java/jdk-11.0.2/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\oracle\instantclient_12_2;C:\apache-maven-3.3.1\bin;C:\Program Files\Git\cmd;C:\Windows\system32;;."/>
     <property name="jdk.debug" value="release"/>
@@ -43,7 +43,7 @@
     <property name="java.class.path" value="C:\Users\ext_edvargas\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.10.0.20181127-2120\jars\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-11.0.2"/>
     <property name="user.language" value="es"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
