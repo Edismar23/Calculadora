@@ -17,7 +17,7 @@ public class App {
 			DesktopOptions options = null;
     		options = new DesktopOptions();
     		options.setApplicationPath("C:\\Windows\\System32\\calc.exe");
-    		File driverPath = new File("C:\\WiniumDriver\\Winium.Desktop.Driver.exe");
+    		File driverPath = new File("./WiniumDriver/Winium.Desktop.Driver.exe");
     		service = new WiniumDriverService.Builder().usingDriverExecutable(driverPath).usingPort(9999).withVerbose(true).withSilent(false).buildDesktopService();
     		service.start();
      		driver = new WiniumDriver(service, options);
